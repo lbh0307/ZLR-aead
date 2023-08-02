@@ -50,3 +50,8 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+
+test_O1
+test_O2
+test_O3
+test_debug
